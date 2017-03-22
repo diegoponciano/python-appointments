@@ -13,7 +13,7 @@ Types of Contributions
 Report Bugs
 ~~~~~~~~~~~
 
-Report bugs at https://github.com/diegoponciano/appointments/issues.
+Report bugs at https://github.com/diegoponciano/python-appointments/issues.
 
 If you are reporting a bug, please include:
 
@@ -61,7 +61,7 @@ local development.
 1. Fork_ the `appointments` repo on GitHub.
 2. Clone your fork locally::
 
-    $ git clone git@github.com:your_name_here/appointments.git
+    $ git clone git@github.com:your_name_here/python-appointments.git
 
 3. Create a branch for local development::
 
@@ -84,7 +84,7 @@ To get tox, just pip install it.
 
 6. Submit a pull request through the GitHub website.
 
-.. _Fork: https://github.com/Nekroze/appointments/fork
+.. _Fork: https://github.com/diegoponciano/python-appointments/fork
 
 Pull Request Guidelines
 -----------------------

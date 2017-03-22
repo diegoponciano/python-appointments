@@ -24,4 +24,4 @@ If you have any suggestions or questions about **Appointments** feel free to ema
 at dgo.ponciano@gmail.com.
 
 If you encounter any errors or problems with **Appointments**, please let me know!
-Open an Issue at the GitHub http://github.com/diegoponciano/appointments main repository.
+Open an Issue at the GitHub http://github.com/diegoponciano/python-appointments main repository.

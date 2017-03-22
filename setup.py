@@ -28,7 +28,7 @@ setup(
     long_description=readme + '\n\n' + doclink + '\n\n' + history,
     author='Diego Ponciano',
     author_email='dgo.ponciano@gmail.com',
-    url='https://github.com/diegoponciano/appointments',
+    url='https://github.com/diegoponciano/python-appointments',
     packages=[
         'appointments',
     ],
